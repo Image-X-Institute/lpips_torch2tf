@@ -1,0 +1,20 @@
+name: lpips_torch2tf_dev
+
+channels:
+- pytorch
+- nvidia
+
+dependencies:
+- python=3.12
+- numpy
+- matplotlib
+- pytorch
+- torchvision
+- torchaudio
+- scikit-image
+- pytorch-cuda=12.1
+- pip
+- pip:
+  - tensorflow[and-cuda]
+  - notebook
+  - lpips
