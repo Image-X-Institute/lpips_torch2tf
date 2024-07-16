@@ -68,3 +68,6 @@ Follow the README located in dev_src/.
 
 ## IT DOESN'T WORK ON MY MACHINE!
 We have tested our implementation on Ubuntu 20.04 and Windows 11. If you find this repository does not work on your particular build, please raise an issue with as many details as practical.
+
+## Citation
+If you find our port useful in your research, please cite our [Zenodo archive](https://zenodo.org/records/12747631).
